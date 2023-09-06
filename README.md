@@ -1,6 +1,6 @@
 # Perceptron # seoultech
 
-딥러닝의 기본! Perceptron 구현하기
+1-1. 딥러닝의 기본, Perceptron 구현하기
 
 매개변수
 
